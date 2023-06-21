@@ -1,10 +1,15 @@
-### 클라우드와 백엔드 공부중인 김설희입니다 👋
+### Hello I'm studying 'Cloud, Backend' 👋
 <div align=center><h1>📚</h1></div>
 
 <div align=center>
 
-✨   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> ✨ <dr> <dr>
+✨   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> ✨ 
 <dr>
+<dr>
+<dr>
+
+<div logoColor=white">&nbsp&nbsp
+💫  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 💫
 
 <!--
 **shk0625/shk0625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
