@@ -1,4 +1,4 @@
-### Hello I'm studying 'Cloud, Backend' 👋
+### Hello I'm studying 'Cloud' 👋
 <div align=center><h1>📚</h1></div>
 
 <div align=center>
@@ -7,9 +7,6 @@
 <dr>
 <dr>
 <dr>
-
-<div logoColor=white">&nbsp&nbsp
-💫  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 💫
 
 <!--
 **shk0625/shk0625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
